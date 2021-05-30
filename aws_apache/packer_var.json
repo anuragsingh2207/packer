@@ -1,0 +1,7 @@
+{
+
+    "aws_region": "ap-south-1",
+    "aws_ami_id": "ami-0e306788ff2473ccb", 
+    "aws_username" : "ec2-user"
+
+}

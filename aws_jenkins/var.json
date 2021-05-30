@@ -1,0 +1,7 @@
+{
+
+    "aws_region": "ap-south-1",
+    "aws_ami_id": " ami-0cda377a1b884a1bc",   
+    "aws_username" : "ubuntu"
+
+}
