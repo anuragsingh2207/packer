@@ -1,2 +1,2 @@
-# packer_repo
-This repo contains files for building re-usable packer images.
+# Packer
+This repo contains sample code for building re-usable packer images.
